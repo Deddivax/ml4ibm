@@ -27,3 +27,4 @@ NN4IBM/clean_simulation/geometries/
 # Notebooks en double / archives
 NN4IBM/clean_simulation/notebooks/archive/
 *.before_cleanup.ipynb
+.vscode/
