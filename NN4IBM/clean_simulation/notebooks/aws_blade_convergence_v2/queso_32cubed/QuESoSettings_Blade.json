@@ -1,0 +1,46 @@
+{
+  "general_settings": {
+    "input_filename": "/home/david/ml4solver-data/NN4IBM/clean_simulation/notebooks/Blade.stl",
+    "echo_level": 0,
+    "write_output_to_file": false
+  },
+  "background_grid_settings": {
+    "grid_type": "b_spline_grid",
+    "lower_bound_xyz": [
+      256.1265071000001,
+      -78.61567439999996,
+      -70.80760539999997
+    ],
+    "upper_bound_xyz": [
+      407.8047059,
+      73.06252439999997,
+      80.87059339999996
+    ],
+    "lower_bound_uvw": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "upper_bound_uvw": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "polynomial_order": [
+      1,
+      1,
+      1
+    ],
+    "number_of_elements": [
+      32,
+      32,
+      32
+    ]
+  },
+  "trimmed_quadrature_rule_settings": {
+    "moment_fitting_residual": 1e-08
+  },
+  "non_trimmed_quadrature_rule_settings": {
+    "integration_method": "Gauss"
+  }
+}

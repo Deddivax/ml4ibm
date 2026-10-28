@@ -1,0 +1,5 @@
+framework,resolution,status,seconds
+naive,128,converged,2782.575629001003
+weighted,128,converged,2602.3635480260054
+queso,128,converged,62.207614608996664
+nn,128,converged,5198.219890736

@@ -1,0 +1,1 @@
+"""Hanging-sphere convergence studies."""

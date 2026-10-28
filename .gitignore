@@ -1,0 +1,29 @@
+# Environnements virtuels
+.venv*/
+venv/
+env/
+
+# Dépôt tiers imbriqué
+NN4IBM/QuESo/
+
+# Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Données et modèles lourds
+*.h5
+*.pt
+*.pth
+*.npy
+*.pkl
+*.zip
+NN4IBM/clean_simulation/outputs/
+
+# Géométries (données)
+NN4IBM/clean_simulation/geometries/
+
+# Notebooks en double / archives
+NN4IBM/clean_simulation/notebooks/archive/
+*.before_cleanup.ipynb
